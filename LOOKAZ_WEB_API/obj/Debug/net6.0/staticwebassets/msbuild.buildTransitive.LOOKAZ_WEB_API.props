@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LOOKAZ_WEB_API.props" />
+</Project>

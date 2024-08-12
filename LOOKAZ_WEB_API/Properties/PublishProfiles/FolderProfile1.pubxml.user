@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Linkgenesis_projects\3_Source\GST\SRC\LOOKAZ_WEB_API\LOOKAZ_WEB_API\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-08-09T05:43:54.7715015Z;True|2024-08-09T14:34:18.7712596+09:00;True|2024-07-24T10:09:51.1709568+09:00;True|2024-07-16T13:55:12.7644839+09:00;True|2024-06-27T15:17:11.1843147+09:00;True|2024-06-27T12:34:28.9134425+09:00;True|2024-06-27T12:25:31.0701396+09:00;True|2024-06-25T14:50:54.5737453+09:00;True|2024-06-25T14:15:13.2923450+09:00;True|2024-06-20T13:58:05.5330226+09:00;True|2024-06-20T13:32:42.0331227+09:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
